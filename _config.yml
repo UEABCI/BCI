@@ -5,7 +5,7 @@ baseurl: "/BCI"  # Leave this empty for user.github.io, or use "/repo-name" if u
 url: "https://UEABCI.github.io"  # Change to your GitHub Pages URL
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
 github:
